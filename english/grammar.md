@@ -1,18 +1,19 @@
 # English grammar
-重新学习语法的过程中，突然认识到，绝大多数的语言都是约定俗成的东西，而且处在不断变化的过程中，并不是先确定一套规则，然后再发明的语言。所以，其实是先有语言，后才有语法。这就导致自然语言的语法总是有很多例外或者说解释不通的地方，而且语法也并不是一成不变的，就像自然科学一样，语法也在发展。  
+重新学习语法的过程中，突然认识到，绝大多数的语言都是约定俗成的东西，而且处在不断变化的过程中，并不是先确定一套规则，然后再发明的语言。所以，其实是先有语言，后才有语法。这就好比硬搬一个公式，往语言上去套，结果当然会有很多不符合的地方，所以语法也并不是一成不变的。  
 
 ## 1. 词性
 了解词性是了解语法的第一步。
 
 ### 1.1 名词
-    noun: things, people, ideals, places
-    
-名词可以充当句子的主语和宾语。英语中的名词可以有不同的形态：单数和复数。名词可以有不同的类别：可数不可数，实词虚词，普通名词和专有名词等等。
-名词复数,不规则变化：
-1. 以f结尾，改f为ve➕ s
-2. child -> children
-3. 不变，sheep, fish. 注意fishes是指种群。
-4. 外来词，有一些奇怪的变化形式。  
+英语中的名词包括: things, people, ideals, places这几类，名词可以充当句子的主语和宾语。关于名词除了单数和复数其实没太多可说的。  
+
+#### 1.1.1 名词的复数
+名词的单数变复数规则变化就是加s，不规则变化主要有以下几类：
+1. 以f结尾，改f为ve + s
+2. 以y结尾改y为ie + s
+3. child -> children（独成一派）
+4. 不变，sheep, fish。（注意fishes是指种群，不是鱼的复数）
+5. 外来词，有一些奇怪的变化形式，常见的如下。  
 > fungus -> fungi
 > datum -> data
 > index -> indice 
@@ -20,15 +21,16 @@
 > thesis -> theses
 > criterion -> criteria 
 > phenomenon -> phenomena 
-5. 突变词
+6. 突变词
 > foot  -> feet
 > woman -> women
 > man   -> men
 > tooth -> teeth
 > goose -> geese
 > mouse -> mice
-> louse -> lice
+> louse -> lice  
 
+关于单数变复数，最后这两类5和6，有一些事很常见的，不需要刻意去记，另外一些不常见的，除非是写论文，日常使用加s也没什么大问题，只要能理解就行。英语在发展过程中，有一些不规则变化形式慢慢的用的人会越来越少，甚至消失（native speaker自己说的，不是我说的）。
 
 #### 1.1.2 冠词
 两类冠词，定冠词(definite artical)，不定冠词(Indefinite artical)。
@@ -38,29 +40,10 @@
 | both singular & plural| only singular|  
 The xxx，指具体某一个东西（可能在上文中有提到过，可能是配合动作，或者是很著名的，大家都知道的）。a/an就是很随便的任意一个。
 
-#### 1.1.3 名词短语
-
 ### 1.2 动词(verb)
-动词大体上可以分为3类：最普通的动词可以表示物体的运动，第二种可以连接概念，第三种可以辅助其他动词。
+动词大体上可以分为3类：最普通的动词可以表示物体的运动，助动词和情态动词可以辅助其他动词，系动词可以连接概念，。
 
-#### 1.2.1 动词的形态变化
-
-+ 动词形态变化{.mindmap}
-    + finite(限定)
-        + simple present(-s)
-        + simple past(-ed)
-    + infinite(非限定)
-        + infinitive（不定式）
-        + gerund（动名词）
-        + participle（分词）
-            + 现在分词 -ing
-            + 过去分词 -ed
-
-简单的来说，动词有3种形态上的变化：-s，-ed，-ing。
-**限定动词：** 动词在句子中做谓语时，包含了时态、数量等信息。形态变化主要有：一般现在时，单数形式要加 **-s** 。一般过去时加 **-ed**。
-**非限定动词：** 非限定动词没有时态、数量等信息。主要有三类：不定式，动名词和分词。后面会详细说明这几类词。
-
-#### 1.2.2 助动词&情态动词
+#### 1.2.1 助动词&情态动词
 auxiliary verb，也称helping verb，是用来辅助main verb表达tense，mood，voice。助动词总共就仨，be, do, have。另外，情态动词也属于助动词的一种，情态动词包括：can, could, may, might, must, ought to, shall, should, will, would。
 下面结合栗子🌰，分别说一下什么是tense, mood, voice。
 - tense
@@ -84,12 +67,13 @@ auxiliary verb，也称helping verb，是用来辅助main verb表达tense，mood
     > Our dessert `was` eaten by the dog.
     > The dog eat our dessert.
 
-### 1.2.3 linking verbs
-系动词可以连接概念，或者说表示状态。常见的系动词有is/are/was/were/be/been/being.  
-> The bear is hungry.  
-> The bear looked lonely.  
-> The bear smells like cinnamon.  
-> 以上的句子其实都对应了一种句型：**S + V + C**.
+### 1.2.2 系动词
+英语里面叫linking verb，可以连接概念，或者说表示状态。常见的系动词有is/are/was/were/be/been/being.  
+> The bear `is` hungry.  
+> The bear `looked` lonely.  
+> The bear `smells` like cinnamon.  
+
+以上的句子中的系动词，is/looked/smells把后面的补语hungry/lonely/cinnamon和前面的主语联系到了一起，两者之间建立了关系.
 
 
 ### 1.3 代词
@@ -384,9 +368,27 @@ decided是简单过去式，表示截止时间是在过去。somking three packs
 > Come back at 5. Your car `will have been` fixed `by then`.  
 
 ### 2.4 非限定性动词（动状词）
-前面讲动词的时候就已经说过了，有两类动词，限定性和非限定性的动词。
-### 2.4 不定式
-简单来说不定式就是to + verb。从前面的词性部分我们知道，动词可分为限定和非限定动词，而非限定性动词包括不定式、动名词和分词。下面分3章分别说明这几类动词。  
+关于限定(finite)和非限定(infinite)是现代语法中的概念，所谓限定就是指动词在充当谓语的时候，需要和主语在数量和人称上保持一致，还需要承担表达动作发生时间的功能，所以受到了主语和时态的限定。而动词在句子中充当除谓语之外的其他成分，就不会有这种限定，所以叫非限定。  
+限定和非限定是动词的形态，而不是动词本身具有的属性。所以同一个动词可以是限定的也可以是非限定的。  
+
++ 动词形态{.mindmap}
+    + finite(限定)
+        + simple present(-s)
+        + simple past(-ed)
+    + infinite(非限定)
+        + infinitive（不定式）
+            + 动词原形
+            + to + 动词原形
+        + gerund（动名词）
+        + participle（分词）
+            + 现在分词 -ing
+            + 过去分词 -ed  
+
+一个句子中有且只有一个动词做谓语，出现的其他动词一定是非限定性动词，或者称为动状词，是因为只是长得像动词，实际上不是做动词使用`（因为他们既不需要和主语在人称和数量上保持一致，也不用承担表达动作发生时间的作用）`。非限定性的动词有3种，那么什么时候该用哪一种呢？这就是下面要说的问题。  
+
+#### 2.4.1 不定式
+动词不定式有两种形态，一种是动词原形不定式，一种是带to的不定式。  
+
 
 ### 2.5 动名词
 ### 2.6 分词
