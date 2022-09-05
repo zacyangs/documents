@@ -861,3 +861,37 @@ who和which在限定性从句中可以用that取代。下面来体会下限定�
 > For boy friend, I'm considering `your brother John`, who is tall, rich.  
 > He has been to `New York`, which is a big city.  
 
+#### 3.3.5 省略先行词
+先行词和代名词的含义是重复的，所以有时候也可以省略先行词。要省略先行词，首先，先行词要是thing，people等空泛的词。其次，不能是非限定性从句。省略先行词之后要把关系副词也改掉。
+
+*what*
+> I have [the thing] [that] you need.  
+> I have what you need.  
+
+*whoever*
+> I'll shoot at any person that moves.
+> I'll shoot whoever moves.  
+
+*whicherver*
+> You can take any car that you like.  
+> You can take whicherver car you like.  
+
+#### 3.3.6 关系从句的位置
+一般原则是，关系从句和先行词尽量接近。但是，凡事皆有例外，所以应该回到最开始的地方，尽量接近的指导原则是为了句子含义清晰。有时候关系词在句中，这时候插入一个从句，会产生断句的困难。  
+
+> You can find two apples `which I bought` in the basket.  
+
+这句话的从句就会让人疑惑，不知道怎么断句。直接把从句放到句末，又会让人找不到先行词。  
+
+> You can find two apples in the basket `which I bought`.  
+
+最好的办法是把in the basket放到最前面：
+> In the basket you can find two apples which I bought.  
+
+下面的例子，明显第二句语意更清晰。  
+> A plague which last 20 years broke out.  
+> A plague broke out which last 20 years.  
+
+总之，关系从句的位置要从表达是否清晰的角度去分析，不能硬套公式。  
+
+#### 3.3.7 关系副词
